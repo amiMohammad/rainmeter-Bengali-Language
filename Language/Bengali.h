@@ -91,8 +91,8 @@
 #define STR_NOTICE                      "বিজ্ঞপ্তি"
 #define STR_DEBUG                       "ডিবাগ"
 #define STR_CLEAR                       "পরিষ্কার"
-#define STR_GETLATESTVERSION            "Get the latest version at <a href=""http://rainmeter.net"">rainmeter.net</a>."
-#define STR_COPYRIGHTNOTICE             "Distributed under the <a href=""http://www.gnu.org/licenses"">GNU GPL v2</a> license."
+#define STR_GETLATESTVERSION            "নতুন ভার্শন ডাউনলোড করুন <a href=""http://rainmeter.net"">rainmeter.net</a>."
+#define STR_COPYRIGHTNOTICE             "<a href=""http://www.gnu.org/licenses"">GNU GPL v2</a> license. এর অধীনে বিতরণ করা হয়েছে"
 #define STR_COPYTOCLIPBOARD             "ক্লিপবোর্ডে কপি করুন"
 #define STR_NUMBER                      "সংখ্যা"
 #define STR_STRING                      "স্ট্রিং"
@@ -219,4 +219,5 @@
 #define STR_CLICKTOMANAGE               "স্কিন এবং সেটিংস পরিচালনা করতে রেইনমিটার আইকনে ক্লিক করুন।"
 #define STR_CLICKTODOWNLOAD             "রেইনমিটার %1 ডাউনলোড করতে এখানে ক্লিক করুন"
 #define STR_INSTALL_NEW_VERSION         "নতুন সংস্করণ ইনস্টল করুন"
+
 #define STR_CLICK_TO_INSTALL            "সংস্করণ ইনস্টল করতে রেইনমিটার পুনরায় চালু করুন: %1"
