@@ -219,5 +219,4 @@
 #define STR_CLICKTOMANAGE               "স্কিন এবং সেটিংস পরিচালনা করতে রেইনমিটার আইকনে ক্লিক করুন।"
 #define STR_CLICKTODOWNLOAD             "রেইনমিটার %1 ডাউনলোড করতে এখানে ক্লিক করুন"
 #define STR_INSTALL_NEW_VERSION         "নতুন সংস্করণ ইনস্টল করুন"
-
 #define STR_CLICK_TO_INSTALL            "সংস্করণ ইনস্টল করতে রেইনমিটার পুনরায় চালু করুন: %1"
